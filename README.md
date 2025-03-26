@@ -19,3 +19,5 @@ complete commit log hash:3597745b5997b4442412639432c3973f7a3acd77
 ### 5 - Implemente um programa que Le as notas de Alunos e diz quantos estao aprovados
 complete commit log hash:76ef0dbcd34355aa08e391d697c83694df94d6f5
 
+### 6 - Implemente um programa que imprime as medias das avaliacoes o melhor/pior aluno no teste 1/TP
+complete commit log hash:21e6660018a566973e18fb27c15ca89828855cfd

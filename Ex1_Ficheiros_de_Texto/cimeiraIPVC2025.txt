@@ -1,0 +1,8 @@
+cimeiraIPVC2025 inscricoes
+1;safi;asdf;asdf
+2;r5;e;12134
+3;fdsg;sdfg;sdg
+4;dsdfadsafdasdfasafsd;asdfsadfsadash;asdafhafhsd
+5;ewr;gvf;ewrq
+6;asfd;asdf;asdf
+7;afsd;asdf;asdg
