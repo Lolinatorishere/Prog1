@@ -21,3 +21,9 @@ complete commit log hash:76ef0dbcd34355aa08e391d697c83694df94d6f5
 
 ### 6 - Implemente um programa que imprime as medias das avaliacoes o melhor/pior aluno no teste 1/TP
 complete commit log hash:21e6660018a566973e18fb27c15ca89828855cfd
+
+### 7 - Implemente um programa que cria modifica as inscricoes num ficheiro
+complete commit log hash:1fd3c6fd8f4792f35a29e2336cf9a1bdfd540783
+
+### 8 - Implemente um programa estilo commando "cp" unix que copia um ficheiro e altera os seus dados 
+complete commit log hash:1fd3c6fd8f4792f35a29e2336cf9a1bdfd540783
